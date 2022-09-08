@@ -32,7 +32,7 @@ public class Cotacao extends HomePage {
 	}
 
 	public void preencherDadosDoProduto() {
-		clicarEscrever(el.startDate, "09/25/2022");
+		clicarEscrever(el.startDate, "09/10/2025");
 		selecionarMenuValor(el.insuranceSum, " 3.000.000,00");
 		selecionarOpcaoMenu(el.meritRating, "Bonus 1");
 		selecionar(el.damageInsurance, "No Coverage");
